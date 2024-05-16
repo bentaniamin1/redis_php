@@ -1,0 +1,17 @@
+{
+    "name": "amin.bentani/redis_php",
+    "autoload": {
+        "psr-4": {
+            "AminBentani\\RedisPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bentaniamin1",
+            "email": "amin.bentani@hetic.net"
+        }
+    ],
+    "require": {
+        "predis/predis": "^2.2"
+    }
+}
